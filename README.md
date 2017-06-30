@@ -1,4 +1,4 @@
-# Characterizing-eye-shape
+# Characterizing eye shape
 M.Tech Final Year Research Project 
 
 Following methods have been used to find the objective of characterizing the eye shape with minimum curves - 
